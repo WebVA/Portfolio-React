@@ -1,0 +1,51 @@
+{
+    "experiences": [
+        {
+            "title": "Web & Blockchain Developer",
+            "subtitle": "RoqqetMedia Ltd",
+            "workType": "Part-time",
+            "workDescription": [
+                "Worked on 2 NFT projects and one wordpress project."
+            ],
+            "dateText": "04/2022 – Present"
+        },
+        {
+            "title": "Blockchain Developer",
+            "subtitle": "Pressply Ltd, etc",
+            "workType": "Part-time",
+            "workDescription": [
+                "Taken part in development of large crypto freelancing platform like Frontier.",
+                "Worked on 10 NFT projects and several dapp, defi projects."
+            ],
+            "dateText": "09/2019 – 03/2022"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "INTERSOG Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on 3+ 3D/2D web game using Unity, Three.js, Canvas, WebGL",
+                "Worked on 5+ projects using MERN stack."
+            ],
+            "dateText": "01/2018 – 09/2019"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "NRI Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on 10+ projects using MERN stack."
+            ],
+            "dateText": "07/2016 – 01/2018"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "VMO Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework."
+            ],
+            "dateText": "03/2015 – 07/2016"
+        }
+    ]
+}
