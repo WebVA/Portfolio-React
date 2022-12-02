@@ -7,7 +7,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/Cheetah0723/Portfolio-React"
+                    "href": "https://github.com/YJ224/Portfolio-React"
                 },
                 {
                     "text": "Live",
@@ -18,6 +18,45 @@
                 "React",
                 "Portfolio",
                 "TypeScript"
+            ]
+        },
+        {
+            "image" : "images/projects/som.png",
+            "title": "Sons Of Mars NFT Battle Game",
+            "bodyText": "- Sons Of Mars NFT Website made in React\n - Developed Smart Contracts using Solidity powered by Chainlink on Ethereum Blockchain Network \n - Developed Opensea force update metadata script using Python \n - Deployed on AWS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sons-of-Mars"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://sonsofmars.io/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Solidity",
+                "Node.js",
+                "Pinata",
+                "Python",
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/Meta.png",
+            "title": "Meta Gate NFT",
+            "bodyText": "- Meta Gate NFT Website made in React.js/Next.js\n - Developed Smart Contracts using Solidity on Binance Blockchain Network \n - Developed Opensea force update metadata script using Python \n - Deployed on AWS",
+            "links": [
+            ],
+            "tags" : [
+                "React.js",
+                "Next.js",
+                "Solidity",
+                "Node.js",
+                "Pinata",
+                "Python"
             ]
         },
         {
@@ -42,18 +81,23 @@
             ]
         },
         {
-            "image" : "images/projects/3_Match.png",
-            "title": "Pet Crush",
-            "bodyText": "- Pet Crush 3 Match Game\n - 3 Match Game made in Unity, C#\n",
+            "image" : "images/projects/11111.png",
+            "title": "ClearScore Marketplace",
+            "bodyText": "- Developed ClearScore front using React.js/Next.js \n - Using Node.js(Express.js) for Backend part and MongoDB(Mongoose) for Database \n - Creted Github Pipelines, CI/CD, workflow \n - Deployed on AWS",
             "links": [
                 {
                     "text": "Live",
-                    "href": "https://www.1001games.com/match-3/pet-crush"
+                    "href": "https://www.clearscore.com/"
                 }
             ],
             "tags" : [
-                "Unity",
-                "C#"
+                "React",
+                "Node.js",
+                "Next.js",
+                "MongoDB",
+                "Github",
+                "Figma",
+                "Slack"
             ]
         },
         {

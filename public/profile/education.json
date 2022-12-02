@@ -1,10 +1,10 @@
 {
     "education":[
         {
-            "title": "April 2010 - March 2013",
+            "title": "April 2008 - March 2011",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"Kyoto University, Kyoto",
-            "cardDetailedText": "CGPA - 3.5",
+            "cardSubtitle":"Tokyo University, Tokyo",
+            "cardDetailedText": "CGPA - 3.9",
             "icon" : {
                 "src": "images/education/Kyoto_University.png"
             }            

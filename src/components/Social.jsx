@@ -42,3 +42,8 @@ function Social() {
 }
 
 export default Social;
+
+        // {
+        //     "network" : "whatsapp",
+        //     "href" : "https://join.skype.com/invite/pCerYGyvteZb"
+        // },
