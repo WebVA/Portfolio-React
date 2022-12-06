@@ -8,12 +8,6 @@
             "icon" : {
                 "src": "images/education/Kyoto_University.png"
             }            
-        },
-        {
-            "title": "April 2013 - March 2014",
-            "cardTitle": "Full-Stack, Web development",
-            "cardSubtitle":"Kyoto University, Kyoto",
-            "cardDetailedText": "CGPA - 3.6"           
         }
     ],
     "carousel" : [
